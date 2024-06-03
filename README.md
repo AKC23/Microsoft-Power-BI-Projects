@@ -1,1 +1,48 @@
-# Microsoft-Power-BI-Projects
+# Microsoft Power BI Projects
+
+<br><br>
+
+## Project 1: Educational Institutions in Bangladesh (2023)
+
+**Description:**  
+In this project, I used Power BI to create an interactive dashboard visualizing the 2023 data from the Bangladesh Bureau of Statistics (BBS) on schools, colleges, and madrasas across Bangladesh. The dashboard provides insights into:
+
+
+1. **Number of institutions**
+2. **Institutions under MPO (Monthly Pay Order)**
+3. **Area types** (Rural, City corporation, Upazila Sadar, District)
+4. **Education types** (Boys, Girls, Co-education)
+5. **Management types** (Government, Non-government)
+6. **Names of upazilas/thanas**
+
+
+This visualization is a valuable tool for analyzing the educational landscape, aiding in data-driven decision-making.
+
+**Link:** [BBS Data (School, College & Madrasha 2023)](https://github.com/AKC23/Microsoft-Power-BI-Projects/tree/main/BBS%20Data%20(School%2C%20College%20%26%20Madrasha%202023))
+
+
+![image](https://github.com/AKC23/Microsoft-Power-BI-Projects/assets/57568723/742f40ca-a1d6-41ba-9b9e-157cd582c5e5)
+<br>
+![image](https://github.com/AKC23/Microsoft-Power-BI-Projects/assets/57568723/b2f79f7a-53af-4789-9bbc-d1a3a62768c7)
+
+<hr>
+
+## Project 2: Sales Performance Dashboard
+
+**Description:**  
+I have created an advanced Sales Performance Dashboard using Power BI, as part of my learning journey through the Power BI course on 365 Data Science. This dashboard offers a comprehensive overview of sales metrics, allowing users to gain insights into monthly performance, currency comparison, and regional sales distribution. The visualizations include pie charts, tables, card visuals, slicers, gauges, maps, and more, enhanced with conditional formatting to ensure clarity and impact. The dashboard is designed for the sales team to easily analyze and understand their sales data, helping them make informed business decisions.
+
+**Link:** [Power BI | 365 Data Science - Project Files](https://github.com/AKC23/Microsoft-Power-BI-Projects/tree/main/Power%20BI%20with%20Dimitar%20Shutev%20-%20Project%20Files)
+
+ 
+![image](https://github.com/AKC23/Microsoft-Power-BI-Projects/assets/57568723/dafdc640-f81f-4b6d-a9fc-606253b899de)
+![image](https://github.com/AKC23/Microsoft-Power-BI-Projects/assets/57568723/4d7923bf-ad77-426e-ba2e-18ed9d7c162b)
+![image](https://github.com/AKC23/Microsoft-Power-BI-Projects/assets/57568723/42210191-d39e-4dda-9637-86776eaf4314)
+
+
+---
+
+
+
+
+

@@ -1,6 +1,6 @@
 # Microsoft Power BI Projects
 
-<br><br>
+<br>
 
 ## Project 1: Educational Institutions in Bangladesh (2023)
 
@@ -15,14 +15,13 @@ The dashboard provides insights into:
 5. **Management types** (Government, Non-government)
 6. **Names of upazilas/thanas**
 
-
-This visualization is a valuable tool for analyzing the educational landscape, aiding in data-driven decision-making.
-
 **Link:** [Power BI & Excel files](https://github.com/AKC23/Microsoft-Power-BI-Projects/tree/main/BBS%20Data%20(School%2C%20College%20%26%20Madrasha%202023))
+
+This visualization serves as a comprehensive tool for analyzing the educational landscape, facilitating data-driven decision-making and offering a detailed view of institutional distribution across Bangladesh.
 
 
 ![image](https://github.com/AKC23/Microsoft-Power-BI-Projects/assets/57568723/742f40ca-a1d6-41ba-9b9e-157cd582c5e5)
-<br>
+<br><br>
 ![image](https://github.com/AKC23/Microsoft-Power-BI-Projects/assets/57568723/b2f79f7a-53af-4789-9bbc-d1a3a62768c7)
 
 <hr>

@@ -5,9 +5,9 @@
 ## Project 1: Educational Institutions in Bangladesh (2023)
 
 **Description:**  
-In this project, I used Power BI to create an interactive dashboard visualizing the 2023 data from the Bangladesh Bureau of Statistics (BBS) on schools, colleges, and madrasas across Bangladesh. The dashboard provides insights into:
+In this project, I used Power BI to create an interactive dashboard visualizing the 2023 data from the Bangladesh Bureau of Statistics (BBS) on schools, colleges, and madrasas across Bangladesh. The dashboard incorporates advanced visual elements, including column charts (clustered and stacked), waffle charts, donut charts, and maps, to enhance data interpretation and usability.
 
-
+The dashboard provides insights into:
 1. **Number of institutions**
 2. **Institutions under MPO (Monthly Pay Order)**
 3. **Area types** (Rural, City corporation, Upazila Sadar, District)
@@ -18,7 +18,7 @@ In this project, I used Power BI to create an interactive dashboard visualizing 
 
 This visualization is a valuable tool for analyzing the educational landscape, aiding in data-driven decision-making.
 
-**Link:** [BBS Data (School, College & Madrasha 2023)](https://github.com/AKC23/Microsoft-Power-BI-Projects/tree/main/BBS%20Data%20(School%2C%20College%20%26%20Madrasha%202023))
+**Link:** [Power BI & Excel files](https://github.com/AKC23/Microsoft-Power-BI-Projects/tree/main/BBS%20Data%20(School%2C%20College%20%26%20Madrasha%202023))
 
 
 ![image](https://github.com/AKC23/Microsoft-Power-BI-Projects/assets/57568723/742f40ca-a1d6-41ba-9b9e-157cd582c5e5)
@@ -27,7 +27,7 @@ This visualization is a valuable tool for analyzing the educational landscape, a
 
 <hr>
 
-## Project 2: Sales Performance Dashboard
+## Project 2: Sales Performance Dashboard (2023)
 
 **Description:**  
 I have created an advanced Sales Performance Dashboard using Power BI, as part of my learning journey through the Power BI course on 365 Data Science. This dashboard offers a comprehensive overview of sales metrics, allowing users to gain insights into monthly performance, currency comparison, and regional sales distribution. The visualizations include pie charts, tables, card visuals, slicers, gauges, maps, and more, enhanced with conditional formatting to ensure clarity and impact. The dashboard is designed for the sales team to easily analyze and understand their sales data, helping them make informed business decisions.

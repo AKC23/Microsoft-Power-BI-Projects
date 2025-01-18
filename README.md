@@ -17,7 +17,7 @@ The dashboard provides insights into:
 
 **Link:** [Power BI & Excel files](https://github.com/AKC23/Microsoft-Power-BI-Projects/tree/main/BBS%20Data%20(School%2C%20College%20%26%20Madrasha%202023))
 
-This visualization serves as a comprehensive tool for analyzing the educational landscape, facilitating data-driven decision-making and offering a detailed view of institutional distribution across Bangladesh.
+This visualization is a comprehensive tool for analyzing the educational landscape, facilitating data-driven decision-making and offering a detailed view of institutional distribution across Bangladesh.
 
 
 ![image](https://github.com/AKC23/Microsoft-Power-BI-Projects/assets/57568723/742f40ca-a1d6-41ba-9b9e-157cd582c5e5)
@@ -31,7 +31,7 @@ This visualization serves as a comprehensive tool for analyzing the educational 
 **Description:**  
 I have created an advanced Sales Performance Dashboard using Power BI, as part of my learning journey through the Power BI course on 365 Data Science. This dashboard offers a comprehensive overview of sales metrics, allowing users to gain insights into monthly performance, currency comparison, and regional sales distribution. The visualizations include pie charts, tables, card visuals, slicers, gauges, maps, and more, enhanced with conditional formatting to ensure clarity and impact. The dashboard is designed for the sales team to easily analyze and understand their sales data, helping them make informed business decisions.
 
-**Link:** [Power BI | 365 Data Science - Project Files](https://github.com/AKC23/Microsoft-Power-BI-Projects/tree/main/Power%20BI%20with%20Dimitar%20Shutev%20-%20Project%20Files)
+**Link:** [Power BI & Excel files](https://github.com/AKC23/Microsoft-Power-BI-Projects/tree/main/Power%20BI%20with%20Dimitar%20Shutev%20-%20Project%20Files)
 
  
 ![image](https://github.com/AKC23/Microsoft-Power-BI-Projects/assets/57568723/dafdc640-f81f-4b6d-a9fc-606253b899de)

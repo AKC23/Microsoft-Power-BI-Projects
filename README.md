@@ -2,7 +2,7 @@
 
 <br>
 
-## Project 1: Educational Institutions in Bangladesh (2023)
+## Project 1: Institutional Mapping Across Bangladesh: Education Data (2023)
 
 **Description:**  
 In this project, I used Power BI to create an interactive dashboard visualizing the 2023 data from the Bangladesh Bureau of Statistics (BBS) on schools, colleges, and madrasas across Bangladesh. The dashboard incorporates advanced visual elements, including column charts (clustered and stacked), waffle charts, donut charts, and maps, to enhance data interpretation and usability.
@@ -26,7 +26,7 @@ This visualization is a comprehensive tool for analyzing the educational landsca
 
 <hr>
 
-## Project 2: Sales Performance Dashboard (2023)
+## Project 2: Visualizing Sales Trends: An Interactive Dashboard (2023)
 
 **Description:**  
 I have created an advanced Sales Performance Dashboard using Power BI, as part of my learning journey through the Power BI course on 365 Data Science. This dashboard offers a comprehensive overview of sales metrics, allowing users to gain insights into monthly performance, currency comparison, and regional sales distribution. The visualizations include pie charts, tables, card visuals, slicers, gauges, maps, and more, enhanced with conditional formatting to ensure clarity and impact. The dashboard is designed for the sales team to easily analyze and understand their sales data, helping them make informed business decisions.

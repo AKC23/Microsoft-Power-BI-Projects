@@ -60,14 +60,17 @@ Built an interactive Power BI financial dashboard for Full Sail, a multi-divisio
 
 **Dashboard Images & Video:**
 
-
-
-
+![Monday Dashboard 1](https://github.com/user-attachments/assets/d925e0f6-90be-4e38-893f-5a0efe2ac19c)
+<br>
+![Monday Dashboard 1](https://github.com/user-attachments/assets/529cbad9-4f6d-4156-9cc4-7309a6507b06)
+<br>
 
 **Conclusion:**
 The dashboard transformed Full Sail's financial reporting from fragmented spreadsheets into a cohesive, interactive platform. It revealed working capital dynamics, customer aging risk, and class-level profitability, enabling management to optimize cash flow, prioritize collections, and make data-driven operational decisions. 
 
-## Project 4: Monday Workspace Management Dashboard (May, 2026)
+<hr>
+
+## Project 4: Monday Workspace Management Dashboard (May-June, 2026)
 
 **Description:**  
 The Monday Workspace Management Dashboard is a comprehensive project management and operations intelligence system designed to track, monitor, and optimize workflow across multiple business units and geographical locations. This real-time dashboard aggregates task execution metrics, resource allocation, deadline tracking, and project distribution across 8+ active workspaces. It provides leadership and team managers with visibility into pending items, project statuses, and upcoming deadlines spanning CCL Magic initiatives, Waterpark Maintenance projects, and Travel/Survey requests. The system integrates KPI tracking with subitem management to ensure accountability and timely project delivery.
@@ -84,9 +87,17 @@ The Monday Workspace Management Dashboard is a comprehensive project management 
 - **Team Member Accountability**: Multi-user assignment tracking across Abel Nolasco, Adrian Delgado, Alejandro Urbina, and Ari Ortiz enabling workload distribution visibility
 - **Deadline Clustering**: Concentration of 8 deadlines on May 24-26 requiring proactive resource reallocation and timeline risk management
 
-![image](https://github.com/user-attachments/assets/8dc7dfcd-66b1-42af-a43c-820dbe367396)
-<br>
-![image](https://github.com/user-attachments/assets/472239b6-e837-4a54-870c-e35c14d1d1f1)
+**Dashboard Images & Video:**
+
+*Screenshot 1: Company Financial Health Overview*
+![Company Financial Health Dashboard](https://github.com/user-attachments/assets/8dc7dfcd-66b1-42af-a43c-820dbe367396)
+
+*Screenshot 2: Transactional Insights & Cash Flow*
+![Transactional Insights Dashboard](https://github.com/user-attachments/assets/472239b6-e837-4a54-870c-e35c14d1d1f1)
+
+*Demo Video:*
+https://github.com/user-attachments/assets/29caf89f-fbbc-4182-a421-2e8a493fbed8
+
 
 **Conclusion:**
 This dashboard transformed project visibility and deadline management, reducing deadline miss risk through real-time tracking while optimizing resource allocation across global operations. The system enables data-driven decision-making for prioritization and capacity planning.

@@ -56,11 +56,16 @@ Built an interactive Power BI financial dashboard for Full Sail, a multi-divisio
 - **Transaction-Level Visibility:** 10,948 transactions totaling $26.6M customer revenue; 107 unique customers; Credit exposure of $30.5M vs. Debit inflow of $46.3M
 - **Expense & Cost Structure:** FSM Chase Checking ($9.3M), Job Materials ($3.7M), Payroll Liabilities ($2.5M), and other operational costs by expense category and class
 
+**Source Data:** [Main Data](https://github.com/AKC23/Microsoft-Power-BI-Projects/tree/main/Financial%20Health%20Dashboard/Main%20data), [Updated Data](https://github.com/AKC23/Microsoft-Power-BI-Projects/tree/main/Financial%20Health%20Dashboard/Updated%20data)
+
+**Dashboard Images & Video:**
+
+
 
 
 
 **Conclusion:**
-
+The dashboard transformed Full Sail's financial reporting from fragmented spreadsheets into a cohesive, interactive platform. It revealed working capital dynamics, customer aging risk, and class-level profitability, enabling management to optimize cash flow, prioritize collections, and make data-driven operational decisions. 
 
 ## Project 4: Monday Workspace Management Dashboard (May, 2026)
 

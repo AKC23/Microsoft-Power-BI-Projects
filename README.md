@@ -39,10 +39,15 @@ I have created an advanced Sales Performance Dashboard using Power BI, as part o
 <br>
 ![image](https://github.com/AKC23/Microsoft-Power-BI-Projects/assets/57568723/42210191-d39e-4dda-9637-86776eaf4314)
 
+
+
+
+
+
 <hr>
 
 
-## Project 3: Full Sail Financial Health Dashboard (April, 2026)
+## Project 3: Full Sail Financial Health - QuickBooks & Power BI Dashboard (April, 2026)
 
 **Description:** 
 Built an interactive Power BI financial dashboard for Full Sail, a multi-division maritime services company, integrating QuickBooks data across five business classes (Skyward, Parts, FSM, Aquatec, ADA). The dashboard consolidates balance sheet, profit & loss, accounts receivable, and transactional data into a unified reporting platform. Sources include QuickBooks-exported Excel files cleaned and normalized for consistency. The solution provides real-time visibility into financial health, working capital dynamics, and cash flow patterns spanning April 2025–April 2026.
@@ -59,11 +64,20 @@ Built an interactive Power BI financial dashboard for Full Sail, a multi-divisio
 **Source Data:** [Main Data](https://github.com/AKC23/Microsoft-Power-BI-Projects/tree/main/Financial%20Health%20Dashboard/Main%20data), [Updated Data](https://github.com/AKC23/Microsoft-Power-BI-Projects/tree/main/Financial%20Health%20Dashboard/Updated%20data)
 
 **Dashboard Images & Video:**
+<br>
+*Screenshot 1: Company Financial Health Overview*
+![Company Financial Health Dashboard](https://github.com/user-attachments/assets/529cbad9-4f6d-4156-9cc4-7309a6507b06)
+<br>
+*Screenshot 2: Transactional Insights & Cash Flow*
+![Transactional Insights Dashboard](https://github.com/user-attachments/assets/d925e0f6-90be-4e38-893f-5a0efe2ac19c)
+<br>
 
-![Monday Dashboard 1](https://github.com/user-attachments/assets/d925e0f6-90be-4e38-893f-5a0efe2ac19c)
+*Demo Video:* https://github.com/user-attachments/assets/c09e724d-d1fe-4f03-82e1-655baf5d29af
+
 <br>
-![Monday Dashboard 1](https://github.com/user-attachments/assets/529cbad9-4f6d-4156-9cc4-7309a6507b06)
-<br>
+
+
+
 
 **Conclusion:**
 The dashboard transformed Full Sail's financial reporting from fragmented spreadsheets into a cohesive, interactive platform. It revealed working capital dynamics, customer aging risk, and class-level profitability, enabling management to optimize cash flow, prioritize collections, and make data-driven operational decisions. 
@@ -89,15 +103,13 @@ The Monday Workspace Management Dashboard is a comprehensive project management 
 
 **Dashboard Images & Video:**
 
-*Screenshot 1: Company Financial Health Overview*
-![Company Financial Health Dashboard](https://github.com/user-attachments/assets/8dc7dfcd-66b1-42af-a43c-820dbe367396)
+![Monday Workspace Management Dashboard](https://github.com/user-attachments/assets/8dc7dfcd-66b1-42af-a43c-820dbe367396)
+<br>
+![Monday Workspace Management Dashboard](https://github.com/user-attachments/assets/472239b6-e837-4a54-870c-e35c14d1d1f1)
+<br>
 
-*Screenshot 2: Transactional Insights & Cash Flow*
-![Transactional Insights Dashboard](https://github.com/user-attachments/assets/472239b6-e837-4a54-870c-e35c14d1d1f1)
-
-*Demo Video:*
-https://github.com/user-attachments/assets/29caf89f-fbbc-4182-a421-2e8a493fbed8
-
+*Demo Video:* https://github.com/user-attachments/assets/29caf89f-fbbc-4182-a421-2e8a493fbed8
+<br>
 
 **Conclusion:**
 This dashboard transformed project visibility and deadline management, reducing deadline miss risk through real-time tracking while optimizing resource allocation across global operations. The system enables data-driven decision-making for prioritization and capacity planning.

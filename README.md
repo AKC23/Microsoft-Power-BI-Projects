@@ -41,7 +41,28 @@ I have created an advanced Sales Performance Dashboard using Power BI, as part o
 
 <hr>
 
-## Project 3: Monday Workspace Management Dashboard (2026)
+
+## Project 3: Full Sail Financial Health Dashboard (April, 2026)
+
+**Description:** 
+Built an interactive Power BI financial dashboard for Full Sail, a multi-division maritime services company, integrating QuickBooks data across five business classes (Skyward, Parts, FSM, Aquatec, ADA). The dashboard consolidates balance sheet, profit & loss, accounts receivable, and transactional data into a unified reporting platform. Sources include QuickBooks-exported Excel files cleaned and normalized for consistency. The solution provides real-time visibility into financial health, working capital dynamics, and cash flow patterns spanning April 2025–April 2026.
+
+**Dashboard Insights:**
+- **Working Capital Requirement (WCR):** Peak of $8.4M showing cash tied up in operations; identifies seasonal working capital needs across business classes
+- **Accounts Receivable Health:** $4.1M outstanding AR with detailed aging breakdown (Current: $3.2M; 1–30 days: $570K; 31–60 days: $207K; 61–90 days: $144K; >90 days: $24K)
+- **Days Sales Outstanding (DSO) & Cash Conversion Cycle (CCC):** Tracks how quickly cash is collected and full operating cycle efficiency by business class
+- **Profitability by Business Class:** Revenue vs. COGS vs. Expenses comparison across Skyward ($2.8M COGS), Parts ($66K COGS), FSM ($3.4M COGS), Aquatec ($3.4M COGS), ADA ($18K COGS) with net income of $2.1M
+- **Balance Sheet Position:** Total Assets $7.6M (Fixed Assets $2.8M, Current Assets $4.4M), Total Liabilities $939K (Debt Ratio 12.3%)
+- **Transaction-Level Visibility:** 10,948 transactions totaling $26.6M customer revenue; 107 unique customers; Credit exposure of $30.5M vs. Debit inflow of $46.3M
+- **Expense & Cost Structure:** FSM Chase Checking ($9.3M), Job Materials ($3.7M), Payroll Liabilities ($2.5M), and other operational costs by expense category and class
+
+
+
+
+**Conclusion:**
+
+
+## Project 4: Monday Workspace Management Dashboard (May, 2026)
 
 **Description:**  
 The Monday Workspace Management Dashboard is a comprehensive project management and operations intelligence system designed to track, monitor, and optimize workflow across multiple business units and geographical locations. This real-time dashboard aggregates task execution metrics, resource allocation, deadline tracking, and project distribution across 8+ active workspaces. It provides leadership and team managers with visibility into pending items, project statuses, and upcoming deadlines spanning CCL Magic initiatives, Waterpark Maintenance projects, and Travel/Survey requests. The system integrates KPI tracking with subitem management to ensure accountability and timely project delivery.
@@ -66,6 +87,8 @@ The Monday Workspace Management Dashboard is a comprehensive project management 
 This dashboard transformed project visibility and deadline management, reducing deadline miss risk through real-time tracking while optimizing resource allocation across global operations. The system enables data-driven decision-making for prioritization and capacity planning.
 
 <hr>
+
+
 
 
 
